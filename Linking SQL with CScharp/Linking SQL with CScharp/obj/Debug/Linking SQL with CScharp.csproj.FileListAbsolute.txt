@@ -1,0 +1,11 @@
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\bin\Debug\ProductDB.mdf
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\bin\Debug\ProductDB_log.ldf
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\bin\Debug\Linking SQL with CScharp.exe.config
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\bin\Debug\Linking SQL with CScharp.exe
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\bin\Debug\Linking SQL with CScharp.pdb
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\obj\Debug\Linking SQL with CScharp.csprojAssemblyReference.cache
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\obj\Debug\Linking_SQL_with_CScharp.Form1.resources
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\obj\Debug\Linking_SQL_with_CScharp.Properties.Resources.resources
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\obj\Debug\Linking SQL with CScharp.csproj.GenerateResource.cache
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\obj\Debug\Linking SQL with CScharp.exe
+C:\Users\w_ara\Documents\GitHub\SQL_CSharp\Linking SQL with CScharp\Linking SQL with CScharp\obj\Debug\Linking SQL with CScharp.pdb
